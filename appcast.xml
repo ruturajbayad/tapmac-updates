@@ -5,5 +5,16 @@
         <link>https://raw.githubusercontent.com/ruturajbayad/tapmac-updates/main/appcast.xml</link>
         <description>TapMac updates</description>
         <language>en</language>
+        <item>
+            <title>Version 1.0.0</title>
+            <pubDate>Sat, 26 Sep 2026 15:15:57 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<ul><li>Bug fixes and improvements.</li></ul>
+            ]]></description>
+            <enclosure url="https://github.com/ruturajbayad/tapmac-updates/releases/download/v1.0.0/TapMac-1.0.0.zip" sparkle:edSignature="kxps8wgxNczG4WgnI1NdoX9dOCbxBUhrsV4J5nd9JQo4q6UkSfampkhQMIpCf0BUcd9ZAFFHAeb8++1eV9qCAw==" length="7402911" type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
