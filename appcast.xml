@@ -5,30 +5,5 @@
         <link>https://raw.githubusercontent.com/ruturajbayad/tapmac-updates/main/appcast.xml</link>
         <description>TapMac updates</description>
         <language>en</language>
-        <item>
-            <title>Version 1.0.1</title>
-            <pubDate>Sat, 26 Sep 2026 15:25:06 +0000</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-<h3>What's new</h3>
-<ul>
-    <li>Test update to confirm automatic updates work.</li>
-</ul>
-            ]]></description>
-            <enclosure url="https://github.com/ruturajbayad/tapmac-updates/releases/download/v1.0.1/TapMac-1.0.1.zip" sparkle:edSignature="mB5jOv205CzTmStX3dOC+BUPXYLPlczIX8PudtwCN4e4ex/7GUWR1uUHOLbnCB10OBjMdneaYc1pLS60JQyGBg==" length="7402915" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Version 1.0.0</title>
-            <pubDate>Sat, 26 Sep 2026 15:15:57 +0000</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-<ul><li>Bug fixes and improvements.</li></ul>
-            ]]></description>
-            <enclosure url="https://github.com/ruturajbayad/tapmac-updates/releases/download/v1.0.0/TapMac-1.0.0.zip" sparkle:edSignature="kxps8wgxNczG4WgnI1NdoX9dOCbxBUhrsV4J5nd9JQo4q6UkSfampkhQMIpCf0BUcd9ZAFFHAeb8++1eV9qCAw==" length="7402911" type="application/octet-stream"/>
-        </item>
     </channel>
 </rss>
