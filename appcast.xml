@@ -6,6 +6,21 @@
         <description>TapMac updates</description>
         <language>en</language>
         <item>
+            <title>Version 1.0.1</title>
+            <pubDate>Tue, 13 Oct 2026 09:10:11 +0000</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<h3>Fixes</h3>
+<ul>
+    <li>Fix Grammar and Rephrase now work on text with skin-tone emoji, joined emoji and flags.</li>
+    <li>Refunds are now available for 5 days instead of 3.</li>
+</ul>
+            ]]></description>
+            <enclosure url="https://github.com/ruturajbayad/tapmac-updates/releases/download/v1.0.1/TapMac-1.0.1.zip" sparkle:edSignature="pwTzwcy1iTmE+77qhLEElYbU1BnlIw14nmrJtdi0clWqW9SM6vgVKYCC8nd7WuqPxHrIS2P++9Wy3DcKRRA6Bw==" length="8288586" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.0.0</title>
             <pubDate>Tue, 13 Oct 2026 06:31:52 +0000</pubDate>
             <sparkle:version>4</sparkle:version>
