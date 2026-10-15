@@ -6,6 +6,22 @@
         <description>TapMac updates</description>
         <language>en</language>
         <item>
+            <title>Version 1.0.2</title>
+            <pubDate>Thu, 15 Oct 2026 17:30:09 +0000</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<h3>Fixes</h3>
+<ul>
+    <li>Fix Grammar, Rephrase and Summarize no longer refuse text that merely mentions something sensitive ("Couldn't process this text").</li>
+    <li>Replace now keeps your line breaks and blank lines instead of joining paragraphs into one line.</li>
+    <li>The license key field removes stray spaces and line breaks from a pasted key.</li>
+</ul>
+            ]]></description>
+            <enclosure url="https://github.com/ruturajbayad/tapmac-updates/releases/download/v1.0.2/TapMac-1.0.2.zip" sparkle:edSignature="GctuksfkAc0Xqu5N4gkNeWJyWPMQyo26NjDeCcIg+OpLOekSIrptU9YpYcGxic4+ZhGejn8GB1fBZv6PoZsqAA==" length="8293018" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.0.1</title>
             <pubDate>Tue, 13 Oct 2026 09:10:11 +0000</pubDate>
             <sparkle:version>5</sparkle:version>
